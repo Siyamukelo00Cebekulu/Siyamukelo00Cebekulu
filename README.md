@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Siyamukelo00Cebekulu/Siyamukelo00Cebekulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: These Are Stupid
-- ⚡ Fun fact: I can't code
--->
+###
+- 👋 Hi, I’m Siyamukelo Cebekulu
+- 👀 I’m interested in Creating, building and launching applications that excite and me, recently i discovered a passion for automation,bulding python scripts and cyber security.
+- 🌱 Pending Message... 
+- 💞️ I’m looking to collaborate on ways to improve my problem solving skills developer tools to enhance my ability to think,speak and create.
+- 📫 How to reach me siyamukelocebekulu@gmail.com, follow me on twitter @the_on_looker or send a direct message
+###
