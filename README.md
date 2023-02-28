@@ -9,3 +9,4 @@
 ###
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siyamukelo00Cebekulu)](https://github.com/Siyamukelo00Cebekulu/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siyamukelo00Cebekulu&show_icons=true&theme=tokyonight)
