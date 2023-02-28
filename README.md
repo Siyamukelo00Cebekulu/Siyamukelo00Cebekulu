@@ -10,6 +10,7 @@
 
 ### Languages
 ###
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 ###
 ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siyamukelo00Cebekulu&show_icons=true&theme=tokyonight)
