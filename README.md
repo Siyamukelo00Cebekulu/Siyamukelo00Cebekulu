@@ -16,7 +16,6 @@
 ### Stats for Nerds
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsd12-hub&show_icons=true&locale=en&layout=compact" alt="lsd12-hub" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siyamukelo00Cebekulu&show_icons=true&theme=tokyonight)
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siyamukelo00Cebekulu&hide_progress=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
