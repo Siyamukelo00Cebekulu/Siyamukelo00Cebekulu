@@ -1,10 +1,64 @@
-### Hi there 👋
+### Hi there 👋  
 
-###
-- 👋 Hi, I’m Siyamukelo Cebekulu
-- 👀 I’m interested in Creating, building and launching software programs that excite and me.
-- 🌱 Pending Message... 
-- 💞️ I’m looking to collaborate on ways to improve my problem solving skills as a developer with insight to new tools that can enhance my ability to think,speak and create.
-- 📫 How to reach me siyamukelocebekulu@gmail.com.
+I'm **Siyamukelo Cebekulu**, a **programmer** from **Soweto, South Africa 🇿🇦**.  
 
-###
+---
+
+### 👨‍💻 About Me  
+- 💡 I’m deeply interested in **software engineering**, **AI**, **neuroscience**, and **psychology** especially how technology can enhance human potential. 
+- ⚙️ I’m currently learning how to be a better person
+- 📚 I love exploring creativity and perspective.  
+- 🧠 My goal is to land a sweet 6 figure tech job.  
+- 🎨 I’m also learning some other stuff to be useful*.  
+- 🕹️ Hobbies include playing football manager, thinking about football manager and dreaming about football manager and rewatching moneyball for insperation.  
+
+---
+
+### 🤝 Collaboration & Goals  
+- 🚀 I’m looking to collaborate on any software project I will not turn down an opportunity to work on a calulator app, weather app or tic-tac-toe.  
+- 🧩 Always open to discussions about **programming, mental performance, football, anime and movies**.  
+
+---
+
+### 📫 How to Reach Me  
+- 📧 **Email:** [siyamukelocebekulu@gmail.com](mailto:siyamukelocebekulu@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/siyamukelo-cebekulu-939199221](https://linkedin.com/in/siyamukelo-cebekulu-939199221)  
+- 💻 **GitHub:** [github.com/Siyamukelo00Cebekulu](https://github.com/Siyamukelo00Cebekulu)  
+
+---
+
+### 🧰 Tech Stack(powered by ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white))  
+#### 💻 Languages & Frameworks  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🌐 Web & Framework Tools  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+#### 🛠️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siyamukelo00Cebekulu&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siyamukelo00Cebekulu&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siyamukelo00Cebekulu&layout=compact&theme=tokyonight&hide_border=true" height="160em" />
+</p>
+
+---
