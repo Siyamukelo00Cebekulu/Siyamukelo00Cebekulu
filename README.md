@@ -5,7 +5,7 @@ I'm **Siyamukelo Cebekulu**, a **programmer** from **Soweto, South Africa 🇿�
 ---
 
 ### 👨‍💻 About Me  
-- 💡 I’m deeply interested in **software engineering**, **AI**, **neuroscience**, and **psychology** especially how technology can enhance human potential. 
+- 💡 I’m deeply interested in how technology can enhance human potential. 
 - ⚙️ I’m currently learning how to be a better person
 - 📚 I love exploring creativity and perspective.  
 - 🧠 My goal is to land a sweet 6 figure tech job.  
