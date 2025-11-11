@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-I'm **Siyamukelo Cebekulu**, a **programmer** from **Soweto, South Africa 🇿🇦**.  
+I am **Siyamukelo Cebekulu**, a **programmer**.
 
 ---
 
