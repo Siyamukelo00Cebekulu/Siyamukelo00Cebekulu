@@ -54,7 +54,6 @@ I'm **Siyamukelo Cebekulu**, a **programmer** from **Soweto, South Africa ðŸ‡¿ðŸ
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Siyamukelo00Cebekulu&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siyamukelo00Cebekulu&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
