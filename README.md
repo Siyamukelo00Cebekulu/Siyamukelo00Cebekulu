@@ -10,7 +10,8 @@ I am **Siyamukelo Cebekulu**, a **programmer**.
 - 📚 I love exploring creativity and perspective.  
 - 🧠 My goal is to land a sweet 6 figure tech job.  
 - 🎨 I’m also learning some other stuff to be useful*.  
-- 🕹️ Hobbies include playing football manager, thinking about football manager and dreaming about football manager and rewatching moneyball for insperation.  
+- 🕹️ Hobbies include playing football manager, thinking about football manager and dreaming about football manager and rewatching moneyball for 
+inspiration.  
 
 ---
 
