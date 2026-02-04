@@ -4,7 +4,7 @@ I am **Siyamukelo Cebekulu**, a **programmer**.
 
 ---
 
-### 👨‍💻 About Me  
+### 👨‍💻 About Me 
 - 💡 I’m deeply interested in how technology can enhance human potential. 
 - ⚙️ I’m currently learning how to be a better person
 - 📚 I love exploring creativity and perspective.  
