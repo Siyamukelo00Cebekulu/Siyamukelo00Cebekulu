@@ -24,7 +24,7 @@ inspiration.
 ### 📫 How to Reach Me  
 - 📧 **Email:** [siyamukelocebekulu@gmail.com](mailto:siyamukelocebekulu@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/siyamukelo-cebekulu-939199221](https://linkedin.com/in/siyamukelo-cebekulu-939199221)  
-- 💻 **GitHub:** [github.com/Siyamukelo00Cebekulu](https://github.com/Siyamukelo00Cebekulu)  
+
 
 ---
 
